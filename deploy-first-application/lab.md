@@ -13,7 +13,7 @@ In this lab, you will write an `Application` manifest from scratch. You will com
 1.  Create a new YAML file for your `Application` resource.
 2.  Define the `metadata` for the `Application`, giving it the name `guestbook` and ensuring it lives in the `argocd` namespace.
 3.  Define the `spec.project` as `default` and the `spec.source` to point to a public Git repository containing plain Kubernetes manifests. You can use the following for a demo application:
-    - **Repo URL:** `https://github.com/lm-academy/argocd-example-apps.git`
+    - **Repo URL:** `https://github.com/miguelgmcap/argocd-example-apps.git`
     - **Revision:** `HEAD`
     - **Path:** `guestbook`
 4.  Define the `spec.destination` field to deploy the application to the local cluster (`https://kubernetes.default.svc`) into the `default` namespace.
@@ -26,7 +26,7 @@ In this lab, you will write an `Application` manifest from scratch. You will com
 - [Argo CD Application CRD Specification](https://argo-cd.readthedocs.io/en/stable/operator-manual/api-docs/#argoproj.io/v1alpha1.Application)
 - [Declarative Setup in Argo CD](https://argo-cd.readthedocs.io/en/stable/operator-manual/declarative-setup/)
 - [The `argocd-example-apps` Repository](https://github.com/argoproj/argocd-example-apps)
-- [My Fork of the `argocd-example-apps` Repository](https://github.com/lm-academy/argocd-example-apps)
+- [My Fork of the `argocd-example-apps` Repository](https://github.com/miguelgmcap/argocd-example-apps)
 
 ## 💭 Reflection Questions
 

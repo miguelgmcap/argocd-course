@@ -2,7 +2,7 @@
 
 This repository contains the code and materials for the **Argo CD** section of my **Argo CD & Argo Rollouts** course.
 
-If you are looking for the **Argo Rollouts** materials, please check the [Argo Rollouts Repository](https://github.com/lm-academy/argo-rollouts-course).
+If you are looking for the **Argo Rollouts** materials, please check the [Argo Rollouts Repository](https://github.com/miguelgmcap/argo-rollouts-course).
 
 ### ➡️ Course link (with a big discount 🙂): [https://www.lauromueller.com/courses/argo-cd-rollouts](https://www.lauromueller.com/courses/argo-cd-rollouts)
 
@@ -22,9 +22,9 @@ I'm thrilled to have you here! This repository contains all the code, examples, 
 
 ### 🔗 Further Course Materials
 
-- [Argo CD Example Apps](https://github.com/lm-academy/argocd-example-apps)
-- [Argo CD Example Apps Labs](https://github.com/lm-academy/argocd-example-apps-labs)
-- [Argo Rollouts Repository (Course Companion)](https://github.com/lm-academy/argo-rollouts-course)
+- [Argo CD Example Apps](https://github.com/miguelgmcap/argocd-example-apps)
+- [Argo CD Example Apps Labs](https://github.com/miguelgmcap/argocd-example-apps-labs)
+- [Argo Rollouts Repository (Course Companion)](https://github.com/miguelgmcap/argo-rollouts-course)
 
 ## 🚀 Getting Started
 
@@ -42,7 +42,7 @@ To run the code examples, you'll need a Kubernetes cluster and some command-line
 1.  **Clone the Repository**
 
     ```bash
-    git clone https://github.com/lm-academy/argocd-code.git
+    git clone https://github.com/miguelgmcap/argocd-code.git
     cd argocd-code
     ```
 
